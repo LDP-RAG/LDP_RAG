@@ -2,7 +2,7 @@
 
 *A flexible, plug‑and‑play **Retrieval‑Augmented Generation** evaluation harness*
 
-🔗 Dataset URL: https://huggingface.co/datasets/Dummpy/BlendPriv
+🔗 Dataset URL: [https://huggingface.co/datasets/LDP-RAG/BlendPriv]
 
 <div align="center">
 
